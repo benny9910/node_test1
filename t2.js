@@ -16,3 +16,4 @@
 	console.log(new Date(curdate).getDay());
 	console.log(new Date(epgdate).getDay());
 	console.log(week);
+	console.log(week);
